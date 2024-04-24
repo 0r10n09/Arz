@@ -1,5 +1,5 @@
 # Arz
-Welcome to Arz, this is a what is technically classified as a shell enviroment, for now it contains basic features, a file explorer, a noeftech (sorta),
+Welcome to Arz, this is a what is technically classified as a shell enviroment, for now it contains basic features, a file explorer, a neoftech (sorta),
 a clear command, because i mean, what command interpreter/CLI doesn't?
 
 # Don't Panic!
